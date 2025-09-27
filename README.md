@@ -27,7 +27,7 @@ It highlights my **career objective, skills, projects, experience, and education
 ---
 
 ## 📷 Preview  
-![Portfolio Screenshot](Praveenkumar.png)  
+![Portfolio Screenshot](PraveenKumar.png)  
 
 ---
 
